@@ -1,0 +1,15 @@
+{
+    "name": "yandex/geo",
+    "description": "Coordinates from adress",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alexandr Raskatov",
+            "email": "avr1704@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "> 5.3.0"
+    }
+}
